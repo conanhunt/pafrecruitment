@@ -1,0 +1,66 @@
+# Django
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+
+# Virtual environment
+venv/
+env/
+
+# IDEs and editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# Configuration files
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.settings/
+
+# Ignore local settings
+local_settings.py
+
+# Media files
+media/
+
+# Compiled Python files
+*.pyc
+*.pyo
+__pycache__/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Temporary files
+*.log
+*.pot
+*.pyc
+*.swp
+*~
+._*
+
+# Security
+*.pem
+
+# Environments
+.env
+
+# Django custom
+*.log
+*.pot
+*.pyc
+*.sqlite3
+local_settings.py
